@@ -1,0 +1,8 @@
+# Comando para alterar permissões do arquivo
+chmod 754 calculadora.sh
+
+# Comando para verificar as permissões
+ls -l calculadora.sh
+
+# Comando para executar o script
+./calculadora.sh
